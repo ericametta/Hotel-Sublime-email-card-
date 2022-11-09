@@ -1,2 +1,2 @@
-# Hotel-Sublime-email-card-
-Email card using pure html and inline css 
+# hotel_email-card-
+Email card using html and inline css 
